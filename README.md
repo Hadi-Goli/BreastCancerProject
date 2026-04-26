@@ -193,14 +193,5 @@ This project was developed by a dedicated team of students from **Kharazmi Unive
 
 * 🎓 **Dr. Hamidreza Bolhasani**
 
-**Development Team:**
-
-| Team Member | GitHub Profile |
-|:-----------:|:--------------:|
-| **Alireza Shams** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/alirzashams) |
-| **Elahe Moharrampour** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/Elahemhrp) |
-| **Hadi Goli Bidgoli** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/Hadi-Goli) |
----
-
 *We express our gratitude for the guidance and scientific supervision provided throughout the development of this research project.*
 
