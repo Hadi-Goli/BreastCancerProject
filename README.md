@@ -5,7 +5,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 📌 Project Overview
 
