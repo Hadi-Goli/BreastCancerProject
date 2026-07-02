@@ -3,6 +3,7 @@ from PIL import Image
 import numpy as np
 import sys
 import os
+import math
 
 # Add project root to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
