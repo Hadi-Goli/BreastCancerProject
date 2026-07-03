@@ -7,4 +7,3 @@ pandas
 pillow
 matplotlib
 scikit-learn
-math
